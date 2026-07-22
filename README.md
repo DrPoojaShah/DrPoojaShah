@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dr. Pooja Shah</h1>
 
-<!--
-**DrPoojaShah/DrPoojaShah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Ph.D. in Applied Mathematics • M.S. in Data Analytics Engineering @ George Mason University
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Transforming data into intelligent solutions through AI, Machine Learning, and Applied Mathematics.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🤖 Machine Learning • 📊 Data Science • 📈 Data Analytics • 🧠 Generative AI • 🐍 Python • 🗄️ SQL • ☁️ AWS
+</p>
