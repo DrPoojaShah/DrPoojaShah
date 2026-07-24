@@ -236,6 +236,7 @@ My research focuses on **Machine Learning, Artificial Intelligence, Applied Math
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </p>
+
 ---
 
 # 💼 Professional Experience
