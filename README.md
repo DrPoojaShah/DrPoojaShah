@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=DrPoojaShah&style=for-the-badge)
+
 <h1 align="center">Hi 👋, I'm Dr. Pooja Shah</h1>
 
 <h3 align="center">
@@ -55,6 +57,16 @@ My work spans predictive modeling, statistical analysis, optimization, healthcar
 
 > *"Transforming mathematical thinking into intelligent AI solutions."*
 ---
+
+# ⭐ Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 **[Machine-Generated Code Detection](https://github.com/DrPoojaShah/machine_generated_code_detection)** | NLP, TF-IDF, handcrafted features, and ensemble machine learning for detecting AI-generated code. |
+| 💳 **[Credit Card Fraud Detection](https://github.com/DrPoojaShah/credit-card-fraud-detection)** | End-to-end fraud detection using Random Forest, XGBoost, SMOTE, threshold optimization, and explainability. |
+| 📊 **Infrastructure Analytics Dashboard** *(Coming Soon)* | Power BI, SQL, ETL, predictive analytics, and interactive business intelligence dashboards. |
+---
+
 
 ## 🎓 Education
 
@@ -119,12 +131,12 @@ My work spans predictive modeling, statistical analysis, optimization, healthcar
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 ## 🚀 Featured Projects
@@ -162,7 +174,7 @@ https://github.com/DrPoojaShah/credit-card-fraud-detection
 - 📖 Built a **fully reproducible research workflow** with well-documented Jupyter notebooks and version-controlled source code.
 
 🔗 **Repository:**  
-*Coming Soon*
+**Repository:** https://github.com/DrPoojaShah/machine_generated_code_detection
 ---
 
 ### 📊 Infrastructure Analytics Dashboard
@@ -282,10 +294,10 @@ My research focuses on **Machine Learning, Artificial Intelligence, Applied Math
 # 🌱 Currently Learning
 
 - 🤖 Large Language Models (LLMs) & Prompt Engineering
-- 🧠 Generative AI & Retrieval-Augmented Generation (RAG)
-- ☁️ AWS for Data Engineering & Machine Learning
-- 🚀 MLOps, Model Deployment & CI/CD for ML
-- 📈 Explainable AI (XAI) & Responsible AI
+- 🧠 Generative AI Applications
+- ☁️ AWS for Machine Learning & Data Engineering
+- 🚀 MLOps & Model Deployment
+- 📊 Explainable AI (XAI) & Responsible AI
 
 ---
 
@@ -300,7 +312,9 @@ My research focuses on **Machine Learning, Artificial Intelligence, Applied Math
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=DrPoojaShah&theme=github-dark"/>
+
 </p>
 
 ---
