@@ -177,7 +177,7 @@ https://github.com/DrPoojaShah/credit-card-fraud-detection
 **Repository:** https://github.com/DrPoojaShah/machine_generated_code_detection
 ---
 
-### 📊 Infrastructure Analytics Dashboard
+### 📊 Bridge Infrastructure Analytics Dashboard
 
 > **An end-to-end business intelligence solution that transforms raw infrastructure data into interactive dashboards and actionable insights through ETL, predictive analytics, and data visualization.**
 
@@ -191,7 +191,8 @@ https://github.com/DrPoojaShah/credit-card-fraud-detection
 - 📈 Applied **predictive analytics** to identify patterns and support data-driven decision-making.
 - ⚡ Automated reporting workflows, enabling stakeholders to monitor infrastructure performance through real-time dashboards.
 
-🔗 **Repository:** *Coming Soon*
+🔗 **Repository:** 
+**Repository:** https://github.com/DrPoojaShah/bridge_infrastructure_analytics
 ---
 
 # 📚 Research & Publications
