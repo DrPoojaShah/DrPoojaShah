@@ -64,7 +64,7 @@ My work spans predictive modeling, statistical analysis, optimization, healthcar
 |---------|-------------|
 | 🤖 **[Machine-Generated Code Detection](https://github.com/DrPoojaShah/machine_generated_code_detection)** | NLP, TF-IDF, handcrafted features, and ensemble machine learning for detecting AI-generated code. |
 | 💳 **[Credit Card Fraud Detection](https://github.com/DrPoojaShah/credit-card-fraud-detection)** | End-to-end fraud detection using Random Forest, XGBoost, SMOTE, threshold optimization, and explainability. |
-| 📊 **Infrastructure Analytics Dashboard** *(Coming Soon)* | Power BI, SQL, ETL, predictive analytics, and interactive business intelligence dashboards. |
+| 📊 **[Infrastructure Analytics Dashboard](https://github.com/DrPoojaShah/bridge_infrastructure_analytics)** | Power BI, SQL, ETL, predictive analytics, and interactive business intelligence dashboards. |
 ---
 
 
