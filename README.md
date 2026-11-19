@@ -67,6 +67,8 @@ My work spans predictive modeling, statistical analysis, optimization, healthcar
 | 🤖 **[Machine-Generated Code Detection](https://github.com/DrPoojaShah/machine_generated_code_detection)** | NLP, TF-IDF, handcrafted features, and ensemble machine learning for detecting AI-generated code. |
 | 💳 **[Credit Card Fraud Detection](https://github.com/DrPoojaShah/credit-card-fraud-detection)** | End-to-end fraud detection using Random Forest, XGBoost, SMOTE, threshold optimization, and explainability. |
 | 🌉 **[Bridge Infrastructure Analytics](https://github.com/DrPoojaShah/bridge_infrastructure_analytics)** | Large-scale bridge infrastructure analysis using Apache Spark (PySpark), ETL, exploratory data analysis, XGBoost, predictive maintenance, and Power BI dashboard design. |
+| 🗳️ **[FairGeoVote](https://github.com/DrPoojaShah/FairGeoVote)** | Uncertainty-aware machine learning and optimization framework for fair election resource allocation, combining spatial ML, explainable AI, uncertainty quantification and linear programming (PuLP). |
+| 📝 **[Student Writing Analysis](https://github.com/DrPoojaShah/Student-writing-analysis)** | NLP pipeline that classifies discourse elements (claims, evidence, rebuttals) in student essays, built on the Kaggle Feedback Prize 2021 dataset. |
 ---
 
 ## 🎓 Education
