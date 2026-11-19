@@ -62,6 +62,8 @@ My work spans predictive modeling, statistical analysis, optimization, healthcar
 
 | Project | Description |
 |---------|-------------|
+| 📊 **[Is AI Eating the Software Budget? (Live Dashboard)](https://github.com/DrPoojaShah/ramp-software-spending-dashboard)** | Interactive D3.js dashboard on live spending data from 50,000+ US businesses: 16 software categories, 7 sectors, company sizes and vendor rankings. |
+| 📈 **[AI Adoption Trend Analysis](https://github.com/DrPoojaShah/ramp-ai-adoption-analysis)** | Data story on 2026 business AI adoption (+12.4 pts): robustness checks across company sizes and competing explanations tested with overlap analysis (Python, pandas). |
 | 🤖 **[Machine-Generated Code Detection](https://github.com/DrPoojaShah/machine_generated_code_detection)** | NLP, TF-IDF, handcrafted features, and ensemble machine learning for detecting AI-generated code. |
 | 💳 **[Credit Card Fraud Detection](https://github.com/DrPoojaShah/credit-card-fraud-detection)** | End-to-end fraud detection using Random Forest, XGBoost, SMOTE, threshold optimization, and explainability. |
 | 🌉 **[Bridge Infrastructure Analytics](https://github.com/DrPoojaShah/bridge_infrastructure_analytics)** | Large-scale bridge infrastructure analysis using Apache Spark (PySpark), ETL, exploratory data analysis, XGBoost, predictive maintenance, and Power BI dashboard design. |
@@ -192,6 +194,40 @@ https://github.com/DrPoojaShah/credit-card-fraud-detection
 
 🔗 **Repository:** 
 **Repository:** https://github.com/DrPoojaShah/bridge_infrastructure_analytics
+---
+
+### 📊 Is AI Eating the Software Budget? Live Spending Dashboard
+
+> **An interactive dashboard on live spending data from 50,000+ US businesses, showing which software categories are gaining and losing customers as AI spreads.**
+
+**🛠️ Tech Stack:** JavaScript • D3.js • Live API Data (Ramp Data) • Data Visualization • KPI Design
+
+### ✨ Key Highlights
+
+- 📈 Found **5 of 7 AI tool categories** gained business customers in the past year while **8 of 9 established software categories** lost them.
+- 🤖 AI tool categories grew **+5.3 percentage points** on average; established software fell **−2.0**.
+- 🏭 Compared AI adoption across **7 sectors** and **3 company sizes**, plus vendor leaderboards in 4 categories.
+- 🔄 Built loaders that turn nested API JSON into tidy rows, with traceable calculations behind every KPI.
+
+🔗 **Repository:** https://github.com/DrPoojaShah/ramp-software-spending-dashboard
+
+---
+
+### 📈 AI Adoption Trend Analysis (2026)
+
+> **A data story testing why US business AI adoption jumped 12 points in 2026.**
+
+**🛠️ Tech Stack:** Python • pandas • matplotlib • Statistical Reasoning • Data Storytelling
+
+### ✨ Key Highlights
+
+- 📊 Showed AI adoption rose from **44.4% to 56.8%** (Dec 2025 → Oct 2026) after stalling in late 2025.
+- ✅ Tested the trend across **small, medium and large** businesses; it held for all three.
+- 🔍 Used set-overlap bounds to show at least **14.6 points** of one vendor's 27-point gain came from businesses adding a second AI vendor.
+- 📄 Published a reproducible analysis script and a written report.
+
+🔗 **Repository:** https://github.com/DrPoojaShah/ramp-ai-adoption-analysis
+
 ---
 
 # 📚 Research & Publications
