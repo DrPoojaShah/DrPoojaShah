@@ -69,6 +69,7 @@ My work spans predictive modeling, statistical analysis, optimization, healthcar
 | 🌉 **[Bridge Infrastructure Analytics](https://github.com/DrPoojaShah/bridge_infrastructure_analytics)** | Large-scale bridge infrastructure analysis using Apache Spark (PySpark), ETL, exploratory data analysis, XGBoost, predictive maintenance, and Power BI dashboard design. |
 | 🗳️ **[FairGeoVote](https://github.com/DrPoojaShah/FairGeoVote)** | Uncertainty-aware machine learning and optimization framework for fair election resource allocation, combining spatial ML, explainable AI, uncertainty quantification and linear programming (PuLP). |
 | 📝 **[Student Writing Analysis](https://github.com/DrPoojaShah/Student-writing-analysis)** | NLP pipeline that classifies discourse elements (claims, evidence, rebuttals) in student essays, built on the Kaggle Feedback Prize 2021 dataset. |
+| ⚖️ **[Fair Bilevel Classification](https://github.com/praneetreddy3/fair-bilevel-classification)** *(co-author)* | Fair collaborative classification via synthetic bilevel optimization and Universum pseudo-positives. Co-authored research project. |
 ---
 
 ## 🎓 Education
